@@ -27,7 +27,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wesdevs&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="Stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesdevs&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150" alt="Languages graph" />
-  <img src="https://streak-stats.demolab.com?user=wesdevs&theme=radical&hide_border=false" height="150" alt="Streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=wesdevs&theme=monokai&no-frame=false&margin-w=8" height="150" alt="Trophy graph" />
 </div>
 
