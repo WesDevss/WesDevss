@@ -1,56 +1,39 @@
-### Olá eu sou Wesley Silva 👋
+# 🌟 Olá, eu sou Wesley Silva Gomes! 👋
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Wesley.diegogomre@gmail.com)
-[![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/Lx2yIX)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-silva-gomes-9bb195259)
+💼 **Engenheiro de Software** | 🚀 **Apaixonado por Tecnologia e Inovação**  
+🎯 **Proativo, determinado e focado em soluções criativas para desafios do dia a dia.**
 
-![Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=WesDevss&show_icons=true&theme=radical)
+---
 
-## Tecnologias que utilizo no meu dia a dia 
+## 🚀 Tecnologias e Ferramentas
 
-<h2 align="left">TECHS</h2>
+### Linguagens e Frameworks
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-###
+### Plataformas e Ferramentas
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<br clear="both">
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-</div>
+## 📌 Sobre Mim  
+Sou movido por desafios e estou sempre em busca de novas ideias e soluções. Amo tecnologia e acredito no poder da inovação para transformar vidas. 🚀
 
-###
+---
 
-<br clear="both">
+## 🌐 Entre em Contato
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesdevs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesdevs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=wesdevs&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=wesdevs&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+- 📧 [E-mail](mailto:Wesley.diegogomre@gmail.com)  
+- 📞 [WhatsApp](https://w.app/Lx2yIX)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wesley-silva-gomes-9bb195259)  
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/wesdevs/wesdevs/output/snake.svg" alt="Snake animation" />
-
-###
-
-Sou proativo, determinado e confiante, sempre enfrentando desafios com resiliência. Amo tecnologia e inovação, buscando constantemente novas soluções e ideias.🚀🚀🚀
+Vamos conversar sobre tecnologia, projetos e ideias inovadoras! 🚀
