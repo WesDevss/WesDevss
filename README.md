@@ -19,7 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
 </div>
+
 ---
+
 ## 🛠️ Veja um pouco do meu trabalho
 
 <div align="center">
