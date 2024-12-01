@@ -33,9 +33,10 @@
 
 ---
 
-## 📌 Últimos Commits
+## 📈 Meu Gráfico de Atividade
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesdevs&theme=github)
+
 
 ---
 
