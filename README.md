@@ -1,39 +1,48 @@
-# 🌟 Olá, eu sou Wesley Silva Gomes! 👋
+# 👋 Olá, eu sou Wesley Silva!
 
 💼 **Engenheiro de Software** | 🚀 **Apaixonado por Tecnologia e Inovação**  
 🎯 **Proativo, determinado e focado em soluções criativas para desafios do dia a dia.**
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🌟 Tecnologias que utilizo no dia a dia
 
-### Linguagens e Frameworks
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
+</div>
+---
+## 🛠️ Veja um pouco do meu trabalho
 
-### Plataformas e Ferramentas
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wesdevs&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="Stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesdevs&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150" alt="Languages graph" />
+  <img src="https://streak-stats.demolab.com?user=wesdevs&theme=radical&hide_border=false" height="150" alt="Streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wesdevs&theme=monokai&no-frame=false&margin-w=8" height="150" alt="Trophy graph" />
+</div>
 
 ---
 
-## 📌 Sobre Mim  
-Sou movido por desafios e estou sempre em busca de novas ideias e soluções. Amo tecnologia e acredito no poder da inovação para transformar vidas. 🚀
+## 📌 Últimos Commits
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wesdevs&theme=github)
 
 ---
 
-## 🌐 Entre em Contato
-
-- 📧 [E-mail](mailto:Wesley.diegogomre@gmail.com)  
-- 📞 [WhatsApp](https://w.app/Lx2yIX)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/wesley-silva-gomes-9bb195259)  
+## 🚀 Sobre Mim  
+Sou proativo, determinado e confiante, sempre enfrentando desafios com resiliência. Amo tecnologia e inovação, buscando constantemente novas soluções e ideias. 🚀🚀🚀
 
 ---
 
-Vamos conversar sobre tecnologia, projetos e ideias inovadoras! 🚀
+## 🌐 Entre em Contato  
+📧 **[E-mail](mailto:Wesley.diegogomre@gmail.com)**  
+📞 **[WhatsApp](https://w.app/Lx2yIX)**  
+🔗 **[LinkedIn](https://www.linkedin.com/in/wesley-silva-gomes-9bb195259)**  
