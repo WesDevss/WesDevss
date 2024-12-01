@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Wesley Silva!
 
-💼 **Engenheiro de Software** | 🚀 **Apaixonado por Tecnologia e Inovação**  
-🎯 **Proativo, determinado e focado em soluções criativas para desafios do dia a dia.**
+<h3>💼 **Engenheiro de Software** | 🚀 **Apaixonado por Tecnologia e Inovação** </h3>
+<h3>🎯 **Proativo, determinado e focado em soluções criativas para desafios do dia a dia.**</h3>
 
 ---
 
@@ -40,7 +40,7 @@
 ---
 
 ## 🚀 Sobre Mim  
-Sou proativo, determinado e confiante, sempre enfrentando desafios com resiliência. Amo tecnologia e inovação, buscando constantemente novas soluções e ideias. 🚀🚀🚀
+<h3>Sou proativo, determinado e confiante, sempre enfrentando desafios com resiliência. Amo tecnologia e inovação, buscando constantemente novas soluções e ideias. 🚀🚀🚀</h3>
 
 ---
 
