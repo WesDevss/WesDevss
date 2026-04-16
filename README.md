@@ -1,50 +1,73 @@
-# 👋 Olá, eu sou Wesley Silva!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=180&section=header&text=Wesley%20Silva%20Gomes&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h3>💼 Engenheiro de Software | 🚀 Apaixonado por Tecnologia e Inovação </h3>
-<h3>🎯 Proativo, resiliente, analítico e focado em soluções criativas para desafios do dia a dia.</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&duration=2500&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Engenheiro+de+Software+%7C+MLOps+%7C+IA+Generativa+%7C+AWS;Construindo+solu%C3%A7%C3%B5es+escal%C3%A1veis+com+impacto+real;Full+Stack+com+vis%C3%A3o+de+produto+e+execu%C3%A7%C3%A3o" />
+</p>
 
----
-
-## 🌟 Tecnologias que utilizo no dia a dia
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-</div>
+<p align="center">
+  <a href="mailto:wesley.diegogomre@gmail.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/wesley-silva-gomes-9bb195259"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://w.app/Lx2yIX"><img src="https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
 
 ---
 
-## 🛠️ Veja um pouco do meu trabalho
+## 👨‍💻 Sobre mim
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WesDevss&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="Stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesDevss&layout=compact&langs_count=6&theme=radical&hide_border=false" height="150" alt="Languages graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=WesDevss&theme=monokai&no-frame=false&margin-w=8" height="150" alt="Trophy graph" />
-</div>
-
----
-
-## 📈 Meu Gráfico de Atividade
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WesDevss&theme=github)
-
+- 🎯 Engenheiro de Software com foco em **MLOps, IA Generativa e Cloud AWS**
+- ☁️ Experiência prática com **Lambda, Bedrock, S3, EC2, Redshift, Docker, Kubernetes e Terraform**
+- 🤖 Desenvolvimento de soluções com **RAG, LLMs e automações inteligentes**
+- 🚀 Atuação como **Full Stack + Scrum Master**, unindo execução técnica e visão de produto
 
 ---
 
-## 🚀 Sobre Mim  
-<h3>Sou proativo, determinado e confiante, sempre enfrentando desafios com resiliência. Amo tecnologia e inovação, buscando constantemente novas soluções e ideias. 🚀🚀🚀</h3>
+## 🧰 Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,react,ts,js,docker,kubernetes,terraform,aws,git,github,mysql" />
+</p>
 
 ---
 
-## 🌐 Entre em Contato  
-📧 **[E-mail](mailto:Wesley.diegogomre@gmail.com)**  
-📞 **[WhatsApp](https://w.app/Lx2yIX)**  
-🔗 **[LinkedIn](https://www.linkedin.com/in/wesley-silva-gomes-9bb195259)**  
+## 📊 Métricas GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WesDevss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesDevss&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=WesDevss&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Certificação em destaque
+
+- ✅ **AWS Certified Cloud Practitioner**
+
+---
+
+## 🔥 Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/WesDevss">
+    <img src="https://github-profile-trophy.vercel.app/?username=WesDevss&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+  </a>
+</p>
+
+> Em breve: adição de cards fixos dos seus melhores projetos (com deploy na Vercel).
+
+---
+
+## 📈 Atividade
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesDevss&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:0ea5e9&height=120&section=footer" />
+</p>
