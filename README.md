@@ -17,9 +17,17 @@
 <h2 align="center">🏅 Certificação AWS</h2>
 
 <p align="center">
-  <a href="https://www.credly.com/users/wesley-silva-gomes/badges">
+  <a href="https://www.credly.com/badges/5ac28798-e0b6-43f5-a80c-343867fdc1cb">
+    <img src="https://images.credly.com/size/200x200/images/b9f627d3-64dd-4b80-a8bc-ef85b3f0d18e/image.png" alt="AWS Certified Cloud Practitioner" width="200" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/5ac28798-e0b6-43f5-a80c-343867fdc1cb">
     <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
   </a>
+  <br/>
+  <sub><a href="https://www.credly.com/badges/5ac28798-e0b6-43f5-a80c-343867fdc1cb">Verificar credencial no Credly →</a></sub>
 </p>
 
 <p align="center">
