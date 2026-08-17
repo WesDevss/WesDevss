@@ -84,5 +84,5 @@
 </p>
 
 <p align="center">
-  <sub>Feito com 💚 por <a href="https://github.com/WesDevss">WesDevss</a> · São Paulo, Brasil</sub>
+  <sub>Feito com 💚 por <a href="https://github.com/WesDevss">WesDevss</a> · São Luís, Brasil</sub>
 </p>
