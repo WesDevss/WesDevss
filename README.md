@@ -12,6 +12,10 @@
   <a href="https://w.app/Lx2yIX"><img src="https://img.shields.io/badge/WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WesDevss&label=Visitas%20ao%20perfil&color=22c55e&style=flat-square" alt="Visitas ao perfil" />
+</p>
+
 ---
 
 <h2 align="center">🏅 Certificações AWS</h2>
@@ -86,20 +90,37 @@ Assistente que responde com base em dados internos da empresa, usando um pipelin
 ## 📊 Métricas GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesDevss&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesDevss&theme=tokyonight" alt="Resumo do perfil" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesDevss&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WesDevss&theme=tokyonight" alt="Most Commit Language" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=WesDevss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=22c55e&icon_color=0ea5e9&locale=pt-br" alt="Estatísticas" />
+  <img height="170" src="https://streak-stats.demolab.com?user=WesDevss&theme=tokyonight&hide_border=true&background=1a1b27&ring=22c55e&fire=0ea5e9&currStreakLabel=22c55e&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesDevss&theme=tokyonight" alt="Linguagens por repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WesDevss&theme=tokyonight" alt="Linguagens por commit" />
 </p>
 
 ---
 
-## 📈 Atividade
+## 🧊 Contribuições em 3D
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesDevss&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesDevss/WesDevss/main/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesDevss/WesDevss/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/WesDevss/WesDevss/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Contribuições em 3D" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WesDevss/WesDevss/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WesDevss/WesDevss/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/WesDevss/WesDevss/output/snake-dark.svg" alt="Cobrinha comendo as contribuições" />
+  </picture>
 </p>
 
 <p align="center">
